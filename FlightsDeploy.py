@@ -3,7 +3,7 @@ import pickle
 import datetime
 import numpy as np  
 
-Model = pickle.load(open("C:\\Python3.10.1\\Lib\\site-packages\\QtDesigner\\VsCode Py\\Flights.pkl", 'rb'))
+Model = pickle.load(open("Flights.pkl", 'rb'))
 
 def stream():
     st.title('FLIGHT TICKET PRICE PREDICTION')
