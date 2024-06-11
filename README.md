@@ -1,6 +1,6 @@
 # Media Reports
 
-[Use My App]( https://share.streamlit.io/atifbeast/world-news-in-shorts/main/MyNews.py)
+[My Hosted App]( https://share.streamlit.io/atifbeast/world-news-in-shorts/main/MyNews.py)
 
 Welcome to **Media Reports**, a Streamlit application that provides news from various sources based on your search criteria. This application is built to deliver the latest news in an unbiased manner.
 
@@ -25,7 +25,7 @@ Welcome to **Media Reports**, a Streamlit application that provides news from va
 
 3. **Run the Streamlit app:**
     ```bash
-    streamlit run app.py
+    streamlit run MyNews.py
     ```
 
 ## Usage
